@@ -1,0 +1,15 @@
+.bg-primary {
+    background-color: black !important;
+}
+
+.text-primary {
+    color: black !important;
+}
+
+.subheading a {
+    color: black !important;
+}
+
+a:hover {
+    color: black !important;
+}
